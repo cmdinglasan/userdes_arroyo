@@ -1,4 +1,4 @@
-<?php include 'navbar.php';?>
+<?php $title = "Activities"; include 'navbar.php';?>
 <?php include 'functions.php';?>
 
 <section class="page-content">

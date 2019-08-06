@@ -21,7 +21,7 @@
 
 
 <!-- General -->
-<title>Welcome to my Page</title>
+<title><?php echo $title;?></title>
 <body>
 
 <div class="main-navigation">
@@ -50,7 +50,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="projects.html">
+						<a href="projects.php">
 							Projects
 						</a>
 					</li>

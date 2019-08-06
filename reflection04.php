@@ -1,111 +1,21 @@
-<?php include 'navbar.php';?>
+<?php $title = "Reflection | Userinyerface - UI Puzzle"; include 'navbar.php';?>
 
 <section class="page-content">
 	<div class="page-title article-title">
 		<div class="container">
-			<h2 class="display-4 font-weight-bold">Need Finding Activity</h2>
+			<h2 class="display-4 font-weight-bold">Userinyerface - Worst UI Practice</h2>
 		</div>
 	</div>
 	<div class="page-container">
 		<div class="container">
 			<div class="article">
-				<p><strong>Need Finding Activity</strong></p>
-				<p><strong>Problems:</strong></p>
-				<ul>
-					<li>Most eye clinics are found inside an establishment</li>
-					<li>Some eye clinis do not have their information posted on the internet</li>
-					<li>Google Maps, Waze, and Apple Maps mostly advertises known or popular eye clinics</li>
-					<li>Prive variation on services among eye clinics</li>
-					<li>Some eye clinics are not found easily</li>
-					<li>Information about the time the eye clinics opens and closes</li>
-					<li>Heavy traffic situations</li>
-				</ul>
-				<p><strong>Objectives</strong></p>
-				<ul>
-					<li>Find the fastest route to avoid traffic james</li>
-					<li>Display time and clinic information</li>
-					<li>Allow users to create an appointment with the clinics</li>
-				</ul>
-				<p><strong>Solutions</strong></p>
-				<ul>
-					<li>An online application that offers users routes to help avoid traffic jams</li>
-					<li>Application that could connect the users and the eye clinics</li>
-					<li>Application that allows users to set their appointment based on their chosen schedule</li>
-					<li>Application that shows the users' location and nearby eye clinics</li>
-				</ul>
-				<p><strong>Related Applications</strong></p>
-				<ul>
-					<li>Direction-related Applications such as Google Maps, Waze, and Apple Maps</li>
-					<li>Hospital Finder (based on US)</li>
-					<li>Eye Clinics (based on Texas, USA)</li>
-				</ul>
+				<p>At first, I thought that the quiz would be a typical one, but no, not this one. I was surprised when we started opening the webpage (userinyerface.com). I didn’t know what to do. I was clicking all over the place but then Miss Jen told us that it is a design-related quiz, since our subject is User Design. Then, I understood that this is logical type of quiz.</p>
+				<p>Users need to understand how the website works and what should be clicked to get through the different pages. An important aspect of creating an application is that is should be easy for users to navigate through different windows or pages of your applications. Your application will not be popular to the masses especially there are different type of users that would use your app.</p>
+				<p>User Interface design of each page got trickier and trickier. From a simple “click here” button to the complex captcha-style button clicking. The hardest page I went through was the email and password one. At first, it took me more than two minutes to find out how to get out of that page. I even scrolled through the terms and condition window and still couldn’t get out of it since it scrolls very slowly.</p>
+				<p>It was a fun activity and it let us open our minds to create a better user interface for our applications.</p>
 			</div>
 		</div>
 	</div>
 </section>
 
-<footer class="main-footer" id="footer">
-	<div class="container">
-		<div class="top-pane">
-			<div id="contact">
-				<h2>I'm Online</h2>
-				<div class="soc-links">
-					<ul class="menu">
-						<li>
-							<a href="https://www.facebook.com/christian.m.dinglasan" target="_blank">
-								<i class="fab fa-facebook-square"></i>
-							</a>
-						</li>
-						<li>
-							<a href="https://www.twitter.com/tiandinglasan" target="_blank">
-								<i class="fab fa-twitter"></i>
-							</a>
-						</li>
-						<li>
-							<a href="https://www.instagram.com/tigiding" target="_blank">
-								<i class="fab fa-instagram"></i>
-							</a>
-						</li>
-						<li>
-							<a href="https://www.youtube.com/c/Arstle" target="_blank">
-								<i class="fab fa-youtube"></i>
-							</a>
-						</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-		<div class="bottom-pane">
-			<section class="pane">
-				<span>Copyright &copy; 2019 Christian Dinglasan</span>
-			</section>
-			<section class="pane" id="footer-links">
-				<ul>
-					<li>
-						<a href="#">
-							<span>Home</span>
-						</a>
-					</li>
-					<li>
-						<a href="#about">
-							<span>About</span>
-						</a>
-					</li>
-					<li>
-						<a href="#project">
-							<span>Project</span>
-						</a>
-					</li>
-					<li>
-						<a href="#contact">
-							<span>Contact</span>
-						</a>
-					</li>
-				</ul>
-			</section>
-		</div>
-	</div>
-</footer>
-
-</body>
-</html>
+<?php include "footer.php"; ?>

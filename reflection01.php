@@ -1,82 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-	<!-- Meta Tags-->
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-	<!-- Stylesheets -->
-	<link rel="stylesheet" href="../css/style.css"/>
-	<link rel="shortcut icon" type="image/png" href="sprites/favicon.ico"/>
-	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700&display=swap" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Crimson+Pro:400,400i&display=swap" rel="stylesheet">
-
-	<!-- Bootstrap -->
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-	<!-- JavaScripts -->
-	<script src="https://kit.fontawesome.com/614c79ec05.js"></script>
-	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-	<script src="../js/togglemenu.js"></script>
-</head>
-
-
-<!-- General -->
-<title>Activity | Tell Me About Your Self</title>
-<body>
-
-<div class="main-navigation">
-	<nav class="navbar active">
-		<div class="container">
-			<div class="logo">
-				<a href="../">
-					<img src="../sprites/cd_logo_2.png">
-				</a>
-			</div>
-			<div class="links">
-				<ul>
-					<li>
-						<a href="../index.html">
-							Home
-						</a>
-					</li>
-					<li>
-						<a href="../activities.html" class="active">
-							Activities
-						</a>
-					</li>
-					<li>
-						<a href="../reflection.html">
-							Reflection
-						</a>
-					</li>
-					<li>
-						<a href="../projects.html">
-							Projects
-						</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</nav>
-</div>
+<?php $title = "Reflection | First Week of UserDes Class"; include 'navbar.php';?>
+<?php include 'functions.php';?>
 
 <section class="page-content">
 	<div class="page-title article-title">
 		<div class="container">
-			<h2 class="display-4 font-weight-bold">Tell Me About Your Self</h2>
+			<h2 class="display-4 font-weight-bold">First Week of UserDes Class</h2>
 		</div>
 	</div>
 	<div class="page-container">
 		<div class="container">
 			<div class="article">
-				<p>Hi! I'm Christian Dinglasan. I'm 19 years old and was born and grew up at Taguig City. I went to Taguig Science High School to study for both my junior and senior years. </p>
+				<p>For the first week of USERDES class, since it a design-related class, I found it difficult at first because I found out that design is not just the visual elements of things. Design is the overall function and visual element of an object for it to work properly.</p>
 
-				<p>When I studied for my senior years, the K-12 curriculum was newly implemented. It was hard for me to adapt to the new subjects taught because our teachers were new to the curriculum.  </p>
+				<p>Design process is not just how to make it beautiful but also to make it functional. We need to ask ourselves how can we solve something from nothing. In order to create a plan, first we need to ask what the problem is. Just like with the 1000-floor  elevator, we need to find out what could be improved. </p>
 
-				<p>I enjoy doing papercrafts and fixing electronics. When fixing electronics, I try to minimize my errors since electronics are sensitive and could cause harm and damage when wrongly fixed. I watch YouTube videos and make them as my guide on how to fix items. </p>
-
-				<p>Based on the course's name, I expect that we will learn about designing graphical user interfaces for mobile applications and websites. </p>
+				<p>We could find what could be added to the project, but will it be functional and could improve the users’ experience? </p>
 			</div>
 		</div>
 	</div>
