@@ -35,7 +35,7 @@ a:hover { text-decoration: none!important; }
 /* Content */
 .section-content { padding: 75px 0 0 0; position: relative; }
 .section-content .top-pane, .section-content .bottom-pane { position: relative; }
-.section-content .content h2 { font-size: 48px; margin: 40px 0 20px 0; }
+.section-content .content h2 { font-size: 48px; margin: 40px 0 20px 0; line-height: 64px; }
 .section-content .button { margin: 65px 0 0 0; }
 .section-content .button .button-link { background: #fff; border-radius: 100px; padding: 20px; color: #212121; font-weight: bold; font-size: 24px; box-shadow: 0px 5px rgba(0,0,0,0.3); transition: all .2s ease; }
 .section-content .button .button-link i { padding: 0 0 0 0px; transition: all .2s ease; }
@@ -128,7 +128,7 @@ a:hover { text-decoration: none!important; }
 /* Content - Section Two */
 .section-two { background-position: center -100px !important; text-align: center; }
 .section-two .top-pane { padding: 200px 0 75px; }
-.section-two .top-pane h2 { font-size: 32px; }
+.section-two .top-pane h2 { font-size: 32px; line-height: 43px; }
 
 /* Content - Section Three */
 .section-three .top-pane h2 { font-size: 32px; padding: 10px 10px; }

@@ -46,6 +46,15 @@
 							<a href="reflection04.php" class="button article-link-btn">Read More</a>
 						</section>
 					</li>
+					<li>
+						<section class="article-post">
+							<a href="reflection05.php" class="display-4 font-weight-bold">
+								SOCIT Fest
+							</a>
+							<p>As an organizer for the School of Computing and Information Technology (SoCIT) Fest 2019, I was excited for the event to push through without a hitch.</p>
+							<a href="reflection05.php" class="button article-link-btn">Read More</a>
+						</section>
+					</li>
 				</ol>
 			</div>
 		</div>
