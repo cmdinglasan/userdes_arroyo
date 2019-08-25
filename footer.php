@@ -1,8 +1,8 @@
 
 
 <footer class="main-footer" id="footer">
-	<div class="container">
-		<div class="top-pane">
+	<div class="top-pane">
+		<div class="container">
 			<div id="contact">
 				<h2>I'm Online</h2>
 				<div class="soc-links">
@@ -31,10 +31,9 @@
 				</div>
 			</div>
 		</div>
-		<div class="bottom-pane">
-			<section class="pane">
-				<span>Copyright &copy; 2019 Christian Dinglasan</span>
-			</section>
+	</div>
+	<div class="bottom-pane">
+		<div class="container">
 			<section class="pane" id="footer-links">
 				<ul>
 					<li>
@@ -58,6 +57,9 @@
 						</a>
 					</li>
 				</ul>
+			</section>
+			<section class="pane">
+				<span>Copyright &copy; 2019 Christian Dinglasan</span>
 			</section>
 		</div>
 	</div>
