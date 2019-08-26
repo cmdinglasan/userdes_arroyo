@@ -1,11 +1,7 @@
 <?php $title = "Reflection | First Web Application using Github and Heroku"; include 'navbar.php';?>
 
 <section class="page-content">
-	<div class="page-title article-title">
-		<div class="container">
-			<h2 class="display-4 font-weight-bold">First Web Application using Github and Heroku</h2>
-		</div>
-	</div>
+	<?php $artdate = "26 JUL, 2019"; $arttitle = $ref3; include 'article-title.php';?>
 	<div class="page-container">
 		<div class="container">
 			<div class="article">

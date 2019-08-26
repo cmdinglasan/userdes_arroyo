@@ -1,12 +1,9 @@
-<?php include 'navbar.php';?>
+<?php $title = "Christian Dinglasan"; include 'navbar.php';?>
 
 <header class="main-header">
 	<div class="header">
-		<div class="container">
-			<div class="background">
-				<div class="overlay"></div>
-			</div>
-			<div class="main-content">
+		<div class="main-content">
+			<div class="container">
 				<h1 class="display-2 font-weigh-bolder">Hi, I am <strong>Christian</strong>.</h1>
 				<h2 class="display-5">Student at Asia Pacific College</h2>
 				<div class="soc-links">
@@ -28,6 +25,7 @@
 						</li>
 					</ul>
 				</div>
+				<img src="sprites/christian.png" class="background">
 			</div>
 		</div>
 	</div>

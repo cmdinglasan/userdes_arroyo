@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="css/style.css"/>
 	<link rel="shortcut icon" type="image/png" href="sprites/favicon.ico"/>
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700&display=swap" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Nunito:700&display=swap" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700&display=swap" rel="stylesheet"> 
 
 	<!-- Bootstrap -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -17,11 +17,25 @@
 	<!-- JavaScripts -->
 	<script src="https://kit.fontawesome.com/614c79ec05.js"></script>
 	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-	<script src="js/togglemenu.js"></script>
+	<script type="text/javascript">
+	$(function() {
+	    var header = $(".fixed-title");
+	    $(window).scroll(function() {    
+	        var scroll = $(window).scrollTop();
+	    
+	        if (scroll >= 200) {
+	            header.addClass("active");
+	        } else {
+	            header.removeClass("active");
+	        }
+	    });
+	});
+	</script>
 </head>
 
 
 <!-- General -->
+<?php include 'info.php';?>
 <title><?php echo $title;?></title>
 <body>
 

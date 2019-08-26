@@ -1,11 +1,7 @@
 <?php $title = "Activity | My Favorite Application"; include 'navbar.php';?>
 
 <section class="page-content">
-	<div class="page-title article-title">
-		<div class="container">
-			<h2 class="display-4 font-weight-bold">My Favorite Application</h2>
-		</div>
-	</div>
+	<?php $artdate = "28 JUN, 2019"; $arttitle = $art2; include 'article-title.php';?>
 	<div class="page-container">
 		<div class="container">
 			<div class="article">

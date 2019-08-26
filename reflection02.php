@@ -1,11 +1,7 @@
 <?php $title = "Reflection | Need Finding and Paper Prototyping"; include 'navbar.php';?>
 
 <section class="page-content">
-	<div class="page-title article-title">
-		<div class="container">
-			<h2 class="display-4 font-weight-bold">Need Finding and Paper Prototyping</h2>
-		</div>
-	</div>
+	<?php $artdate = "16 JUL, 2019"; $arttitle = $ref2; include 'article-title.php';?>
 	<div class="page-container">
 		<div class="container">
 			<div class="article">

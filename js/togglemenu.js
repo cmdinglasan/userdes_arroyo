@@ -1,7 +1,10 @@
-$(document).ready(function(){
-	$(window).scroll(function(){
-		if ($(window).scrollTop() > 100 && !$( ".navbar" ).hasClass( "active" ) || $(window).scrollTop() === 0 && $( ".navbar" ).hasClass( "" )){
-	$('.navbar').toggleClass( "active");
-		}
- 	});
-});
+$(window).scroll(function() {    
+var scroll = $(window).scrollTop();
+ //console.log(scroll);
+if (scroll >= 300) {
+    //console.log('a');
+    $(".fixed-title").addClass("active");
+} else {
+    //console.log('a');
+    $(".fixed-title").removeClass("active");
+}

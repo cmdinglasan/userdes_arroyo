@@ -1,11 +1,7 @@
 <?php $title = "Activity | Need Finding Activity"; include 'navbar.php';?>
 
 <section class="page-content">
-	<div class="page-title article-title">
-		<div class="container">
-			<h2 class="display-4 font-weight-bold">Need Finding Activity</h2>
-		</div>
-	</div>
+	<?php $artdate = "16 JUL, 2019"; $arttitle = $art4; include 'article-title.php';?>
 	<div class="page-container">
 		<div class="container">
 			<div class="article">

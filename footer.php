@@ -58,7 +58,7 @@
 					</li>
 				</ul>
 			</section>
-			<section class="pane">
+			<section class="pane" id="copyright">
 				<span>Copyright &copy; 2019 Christian Dinglasan</span>
 			</section>
 		</div>

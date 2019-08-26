@@ -1,11 +1,7 @@
 <?php $title = "Activity | Tell Me About Your Self"; include 'navbar.php';?>
 
 <section class="page-content">
-	<div class="page-title article-title">
-		<div class="container">
-			<h2 class="display-4 font-weight-bold">Tell Me About Your Self</h2>
-		</div>
-	</div>
+	<?php $artdate = "25 JUN, 2019"; $arttitle = $art1; include 'article-title.php';?>
 	<div class="page-container">
 		<div class="container">
 			<div class="article">

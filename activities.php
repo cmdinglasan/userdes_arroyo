@@ -14,7 +14,7 @@
 					<li>
 						<section class="article-post">
 							<a href="article01.php" class="display-4 font-weight-bold">
-								Tell Me About Yourself
+								<?php echo $art1; ?>
 							</a>
 							<p>Hi! I'm Christian Dinglasan. I'm 19 years old and was born and grew up at Taguig City. I went to Taguig Science High School to study for both my junior and senior years. </p>
 							<a href="article01.php" class="button article-link-btn">Read More</a>
@@ -23,7 +23,7 @@
 					<li>
 						<section class="article-post">
 							<a href="article02.php" class="display-4 font-weight-bold">
-								My Favorite Application
+								<?php echo $art2; ?>
 							</a>
 							<p>There are many browsers that we typically use every day - from Google Chrome, Firefox, Opera, to Microsoft Edge. But those browsers tend to exchange your data for them to be used for free.</p>
 							<a href="article02.php" class="button article-link-btn">Read More</a>
@@ -32,7 +32,7 @@
 					<li>
 						<section class="article-post">
 							<a href="article03.php" class="display-4 font-weight-bold">
-								1000 Floor Elevator
+								<?php echo $art3; ?>
 							</a>
 							<p>A thousand-floor elevator could not be feasible and possible due to different circumstances such as the building's height and strength, number of elevators, number of people who will use the elevator, type of building and/or the position/location of the elevator</p>
 							<a href="article03.php" class="button article-link-btn">Read More</a>
@@ -41,7 +41,7 @@
 					<li>
 						<section class="article-post">
 							<a href="article04.php" class="display-4 font-weight-bold">
-								Need Finding Activity
+								<?php echo $art4; ?>
 							</a>
 							<p>Need Finding Activity
 
@@ -51,6 +51,15 @@ Problems:
 
 - Some eye clinics do not have their information posted on the internet </p>
 							<a href="article04.php" class="button article-link-btn">Read More</a>
+						</section>
+					</li>
+					<li>
+						<section class="article-post">
+							<a href="article07.php" class="display-4 font-weight-bold">
+								<?php echo $art7; ?>
+							</a>
+							<p>How can we improve this? Organization of data Group related ideas Whitespace</p>
+							<a href="article07.php" class="button article-link-btn">Read More</a>
 						</section>
 					</li>
 				</ol>

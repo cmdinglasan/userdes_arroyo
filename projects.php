@@ -14,7 +14,7 @@
 					<li>
 						<section class="article-post">
 							<a href="http://cmdinglasan.herokuapp.com" target="_blank" class="display-4 font-weight-bold">
-								Version Control and Basic HTML
+								<?php echo $pro1; ?>
 							</a><br/>
 							<a href="http://cmdinglasan.herokuapp.com" target="_blank" class="button article-link-btn">Read More</a>
 						</section>
@@ -22,7 +22,7 @@
 					<li>
 						<section class="article-post">
 							<a href="http://userdes-dinglasan.herokuapp.com" target="_blank" class="display-4 font-weight-bold">
-								My Favorite Application
+								<?php echo $pro2; ?>
 							</a><br/>
 							<a href="http://userdes-dinglasan.herokuapp.com" target="_blank" class="button article-link-btn">Read More</a>
 						</section>
@@ -30,7 +30,7 @@
 					<li>
 						<section class="article-post">
 							<a href="project03.php" class="display-4 font-weight-bold">
-								Userinyerface - UI Puzzle
+								<?php echo $pro3; ?>
 							</a><br/>
 							<a href="project03.php" class="button article-link-btn">Read More</a>
 						</section>
