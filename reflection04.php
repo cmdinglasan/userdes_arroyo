@@ -1,11 +1,7 @@
 <?php $title = "Reflection | Userinyerface - UI Puzzle"; include 'navbar.php';?>
 
 <section class="page-content">
-	<div class="page-title article-title">
-		<div class="container">
-			<h2 class="display-4 font-weight-bold">Userinyerface - Worst UI Practice</h2>
-		</div>
-	</div>
+	<?php $artdate = "26 JUL, 2019"; $arttitle = $ref4; include 'article-title.php';?>
 	<div class="page-container">
 		<div class="container">
 			<div class="article">
