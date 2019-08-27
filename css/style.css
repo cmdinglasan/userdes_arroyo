@@ -182,4 +182,9 @@ a:hover { text-decoration: none!important; }
 .section-two { background-size: cover !important; background-position: center center !important; }
 .section-two .top-pane { padding: 75px 0 75px; }
 
+/* Pages - Article */
+.page-content .article-title:not(.fixed-title) h2 { font-size: 32px; }
+.page-content .article-title:not(.fixed-title) { background: #008BCD; padding: 50px 0 50px 0; }
+.container { padding: 0 20px; }
+
 }
