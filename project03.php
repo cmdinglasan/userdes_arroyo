@@ -1,7 +1,7 @@
 <?php $title = "Project | Userinyerface - UI Puzzle"; include 'navbar.php';?>
 
 <section class="page-content">
-	<?php $artdate = "16 JUL, 2019"; $arttitle = $art4; include 'article-title.php';?>
+	<?php $artdate = "16 JUL, 2019"; $arttitle = $pro3; include 'article-title.php';?>
 	<div class="page-container">
 		<div class="container">
 			<div class="article">

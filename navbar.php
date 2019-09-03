@@ -29,6 +29,9 @@
 	            header.removeClass("active");
 	        }
 	    });
+		$('.hamburger').click(function(){
+		  $('.links').toggleClass('mobile');
+		});
 	});
 	</script>
 </head>
@@ -46,6 +49,9 @@
 				<a href="index.php">
 					<img src="sprites/cd_logo_2.png">
 				</a>
+			</div>
+			<div class="hamburger">
+				<i class="fas fa-bars"></i>
 			</div>
 			<div class="links">
 				<ul>

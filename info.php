@@ -9,6 +9,7 @@ $art5 = "Initial Prototype";
 $art6 = "Persona";
 $art7 = "Information Design";
 $art8 = "Grid Layout Design";
+$art9 = "12-Column Grid Design";
 
 // Reflections
 $ref1 = "First Week of UserDes Class";
