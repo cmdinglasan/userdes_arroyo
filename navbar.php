@@ -31,6 +31,7 @@
 	    });
 		$('.hamburger').click(function(){
 		  $('.links').toggleClass('mobile');
+		  $('.navbar').toggleClass('active');
 		});
 	});
 	</script>
@@ -43,7 +44,7 @@
 <body>
 
 <div class="main-navigation">
-	<nav class="navbar active">
+	<nav class="navbar">
 		<div class="container">
 			<div class="logo">
 				<a href="index.php">

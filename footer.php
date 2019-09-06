@@ -34,30 +34,6 @@
 	</div>
 	<div class="bottom-pane">
 		<div class="container">
-			<section class="pane" id="footer-links">
-				<ul>
-					<li>
-						<a href="#">
-							<span>Home</span>
-						</a>
-					</li>
-					<li>
-						<a href="#about">
-							<span>About</span>
-						</a>
-					</li>
-					<li>
-						<a href="#project">
-							<span>Project</span>
-						</a>
-					</li>
-					<li>
-						<a href="#contact">
-							<span>Contact</span>
-						</a>
-					</li>
-				</ul>
-			</section>
 			<section class="pane" id="copyright">
 				<span>Copyright &copy; 2019 Christian Dinglasan</span>
 			</section>

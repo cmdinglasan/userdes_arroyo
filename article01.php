@@ -13,6 +13,7 @@
 
 				<p>Based on the course's name, I expect that we will learn about designing graphical user interfaces for mobile applications and websites. </p>
 			</div>
+			<?php include('sidebar.php'); ?>
 		</div>
 	</div>
 </section>

@@ -23,4 +23,11 @@ $ref6 = "First Half of USERDES";
 $pro1 = "Version Control and Basic HTML";
 $pro2 = "My Favorite Application";
 $pro3 = "Userinyerface UI Puzzle";
+
+// Social Media Links
+$socfb = "https://facebook.com/christian.m.dinglasan";
+$soctw = "https://twitter.com/tiandinglasan";
+$socig = "https://instagram.com/tigiding";
+$socli = "https://www.linkedin.com/in/christian-dinglasan-645265151/";
+$socyt = "https://youtube.com/c/Arstle"
 ?>
