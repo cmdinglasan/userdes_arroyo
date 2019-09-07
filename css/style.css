@@ -178,7 +178,7 @@ a:hover { text-decoration: none!important; }
 .posts.portrait .article-post .article-desc { width: calc(100% - 40px); padding: 20px; }
 
 /* Facebook Comments */
-.comments-container { position: relative; padding: 100px 0; background: #9EA6B4; }
+.comments-container { position: relative; padding: 100px 0; background: #D9D9D6; }
 
 @media screen and (max-width: 1200px) {
 
