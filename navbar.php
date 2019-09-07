@@ -20,6 +20,7 @@
 	<script type="text/javascript">
 	$(function() {
 	    var header = $(".fixed-title");
+	    var navbar = $(".navbar");
 	    $(window).scroll(function() {    
 	        var scroll = $(window).scrollTop();
 	    
@@ -28,10 +29,27 @@
 	        } else {
 	            header.removeClass("active");
 	        }
+	        if (scroll >= 70) {
+	            navbar.addClass("scroll");
+	        } else {
+	            navbar.removeClass("scroll");
+	        }
 	    });
 		$('.hamburger').click(function(){
 		  $('.links').toggleClass('mobile');
 		  $('.navbar').toggleClass('active');
+		});
+		$('.btn.portrait').click(function(){
+		  $('.btn.portrait').addClass('active');
+		  $('.btn.landscape').removeClass('active');
+		  $('.page-container .posts').removeClass('landscape');
+		  $('.page-container .posts').addClass('portrait');
+		});
+		$('.btn.landscape').click(function(){
+		  $('.btn.portrait').removeClass('active');
+		  $('.btn.landscape').addClass('active');
+		  $('.page-container .posts').addClass('landscape');
+		  $('.page-container .posts').removeClass('portrait');
 		});
 	});
 	</script>
@@ -58,22 +76,27 @@
 				<ul>
 					<li>
 						<a href="index.php">
-							Home
+							<span>Home</span>
 						</a>
 					</li>
 					<li>
 						<a href="activities.php">
-							Activities
+							<span>Activities</span>
 						</a>
 					</li>
 					<li>
 						<a href="reflection.php">
-							Reflection
+							<span>Reflection</span>
 						</a>
 					</li>
 					<li>
 						<a href="projects.php">
-							Projects
+							<span>Projects</span>
+						</a>
+					</li>
+					<li>
+						<a href="learnings.php">
+							<span>Learnings</span>
 						</a>
 					</li>
 				</ul>

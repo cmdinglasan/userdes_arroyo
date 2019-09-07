@@ -25,12 +25,28 @@
 	</div>
 	<section class="article-section">
 		<div class="section-title">
+			<h4>Categories</h3>
 		</div>
 		<div class="section-list">
 			<ul>
 				<li>
-					<a href="Activities">
+					<a href="activities.php">
 						<span>Activities</span>
+					</a>
+				</li>
+				<li>
+					<a href="reflection.php">
+						<span>Reflections</span>
+					</a>
+				</li>
+				<li>
+					<a href="projects.php">
+						<span>Projects</span>
+					</a>
+				</li>
+				<li>
+					<a href="learnings.php">
+						<span>Learning</span>
 					</a>
 				</li>
 			</ul>
