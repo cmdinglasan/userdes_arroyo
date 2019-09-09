@@ -23,6 +23,10 @@
 			<a href="<?php echo $socli ?>" target="_blank" title="Christian's LinkedIn Profile"><i class="fab fa-linkedin"></i></a>
 		</div>
 	</div>
+	<section class="article-section linkedin" style="padding: 0;">
+		<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+		<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="christian-dinglasan-645265151"><a class="LI-simple-link" href='https://ph.linkedin.com/in/christian-dinglasan-645265151?trk=profile-badge'>Christian Dinglasan</a></div>
+	</section>
 	<section class="article-section">
 		<div class="section-title">
 			<h4>Categories</h3>

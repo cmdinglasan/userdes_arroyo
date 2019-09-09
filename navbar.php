@@ -7,6 +7,7 @@
 
 	<!-- Stylesheets -->
 	<link rel="stylesheet" href="css/style.css"/>
+	<link rel="stylesheet" href="css/linkedin.css"/>
 	<link rel="shortcut icon" type="image/png" href="sprites/favicon.ico"/>
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700&display=swap" rel="stylesheet"> 

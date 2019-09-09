@@ -138,7 +138,7 @@ a:hover { text-decoration: none!important; }
 .page-content .article-title .article-info { position: relative; color: rgba(255,255,255,0.5); text-align: left; text-transform: uppercase; }
 .page-content .article-title .article-info #art-date {  }
 .page-content .article-title .article-info #art-date:after { content: '|'; padding: 0 0 0 10px; margin: 0 10px 0 0; }
-.article { position: relative; margin: 0 6px 50px 0; font-family: 'Crimson Pro', Montserrat, sans-serif; font-size: 18px; display: inline-block; width: calc(100% - 264px);vertical-align: top; }
+.article { position: relative; margin: 0 26px 50px 0; font-family: 'Crimson Pro', Montserrat, sans-serif; font-size: 18px; display: inline-block; width: calc(100% - 284px);vertical-align: top; }
 .article p { margin: 20px 0px; color: #6c6c6c; }
 .article .row h3.col-title { font-weight: bold; position: relative; padding: 0 0 20px 0; }
 .article .row h3.col-title:after { content: ''; position: absolute; bottom: 5px; left: 0; height: 3px; width: 20%; background: #006CB0; }
@@ -179,6 +179,10 @@ a:hover { text-decoration: none!important; }
 
 /* Facebook Comments */
 .comments-container { position: relative; padding: 100px 0; background: #D9D9D6; }
+
+/* Linkedin */
+.LI-badge-container.horizontal.light .LI-profile-pic-container { display: block; width: 100%; }
+.LI-profile-badge .LI-badge-container.horizontal.light { box-shadow: 0 0 0 !important; width: 100% !important; }
 
 @media screen and (max-width: 1200px) {
 
