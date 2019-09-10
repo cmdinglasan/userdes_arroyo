@@ -62,6 +62,15 @@ Problems:
 							<a href="article07.php" class="button article-link-btn">Read More</a>
 						</section>
 					</li>
+					<li>
+						<section class="article-post">
+							<a href="article08.php" class="display-4 font-weight-bold">
+								<?php echo $art8; ?>
+							</a>
+							<p>Designing for websites is not as easy as it looks. Surely, at least one time, you have seen websites that are grid-like in structure.</p>
+							<a href="article08.php" class="button article-link-btn">Read More</a>
+						</section>
+					</li>
 				</ol>
 			</div>
 		</div>

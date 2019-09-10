@@ -1,4 +1,4 @@
-<?php $title = "Activity | Tell Me About Your Self"; include 'navbar.php';?>
+<?php include 'info.php'; $title = $art1; include 'navbar.php';?>
 
 <section class="page-content">
 	<?php $artdate = "25 JUN, 2019"; $arttitle = $art1; include 'article-title.php';?>

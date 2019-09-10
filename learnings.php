@@ -125,7 +125,7 @@
 				<li>
 					<div class="article-post card">
 						<div class="featured-img">
-							<img src="sprites\learning\UX Design 1 Overview.jpg">
+							<img src="sprites\certs\CertificateOfCompletion_Ux Design 1 Overview 2-1.jpg">
 						</div>
 						<div class="article-desc">
 							<div class="article-titl">
@@ -145,7 +145,7 @@
 				<li>
 					<div class="article-post card">
 						<div class="featured-img">
-							<img src="sprites\learning\Learning Python.jpg">
+							<img src="sprites\certs\CertificateOfCompletion_Learning Python 2-1.jpg">
 						</div>
 						<div class="article-desc">
 							<div class="article-titl">
@@ -165,7 +165,7 @@
 				<li>
 					<div class="article-post card">
 						<div class="featured-img">
-							<img src="sprites\learning\Planning a Career in User Experience.jpg">
+							<img src="sprites\certs\CertificateOfCompletion_Planning A Career In User Experience-1.jpg">
 						</div>
 						<div class="article-desc">
 							<div class="article-titl">
@@ -185,7 +185,7 @@
 				<li>
 					<div class="article-post card">
 						<div class="featured-img">
-							<img src="sprites\learning\Java 8 Essential Training.jpg">
+							<img src="sprites\certs\CertificateOfCompletion_Java 8 Essential Training-1.jpg">
 						</div>
 						<div class="article-desc">
 							<div class="article-titl">
@@ -205,7 +205,7 @@
 				<li>
 					<div class="article-post card">
 						<div class="featured-img">
-							<img src="sprites\learning\Cert Prep Excel 2016 Microsoft Office Specialist (77-727).jpg">
+							<img src="sprites\certs\CertificateOfCompletion_Cert Prep Excel 2016 Microsoft Office Specialist 77 727-1.jpg">
 						</div>
 						<div class="article-desc">
 							<div class="article-titl">
@@ -225,7 +225,7 @@
 				<li>
 					<div class="article-post card">
 						<div class="featured-img">
-							<img src="sprites\learning\Cert Prep PowerPoint 2016 Microsoft Office Specialist (77-729).jpg">
+							<img src="sprites\certs\CertificateOfCompletion_Cert Prep Powerpoint 2016 Microsoft Office Specialist 77 729-1.jpg">
 						</div>
 						<div class="article-desc">
 							<div class="article-titl">
@@ -245,7 +245,7 @@
 				<li>
 					<div class="article-post card">
 						<div class="featured-img">
-							<img src="sprites\learning\Office 365 Word Essential Training.jpg">
+							<img src="sprites\certs\CertificateOfCompletion_Office 365 Word Essential Training-1.jpg">
 						</div>
 						<div class="article-desc">
 							<div class="article-titl">
@@ -265,7 +265,7 @@
 				<li>
 					<div class="article-post card">
 						<div class="featured-img">
-							<img src="sprites\learning\Cert Pre Word 2016 Microsoft Office Specialist (77-725).jpg">
+							<img src="sprites/certs/CertificateOfCompletion_Cert Prep Word 2016 Microsoft Office Specialist 77 725-1.jpg">
 						</div>
 						<div class="article-desc">
 							<div class="article-titl">
@@ -285,7 +285,7 @@
 				<li>
 					<div class="article-post card">
 						<div class="featured-img">
-							<img src="sprites\learning\HTML Essential Training.jpg">
+							<img src="sprites/certs/CertificateOfCompletion_Html Essential Training.jpg">
 						</div>
 						<div class="article-desc">
 							<div class="article-titl">
