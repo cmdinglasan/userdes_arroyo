@@ -13,6 +13,12 @@
 
 				<p>Other buildings such as office-type or skyscrapers have floors which are for authorized persons only. To access these floors, after entering the floor number, the user will type the Personal Identification Number (PIN) code for the floor. After entering the correct PIN code, the computer will grant the access and proceed. If the building offers authorization cards such as using NFC or RFID card, the user may tap the card onto the scanner.</p>
 			</div>
+			<?php include('sidebar.php'); ?>
+		</div>
+	</div>
+	<div class="comments-container">
+		<div class="container">
+			<div class="fb-comments" data-href="<?php echo $_SERVER['REQUEST_URI']; ?>" data-width="" data-numposts="5"></div>
 		</div>
 	</div>
 </section>

@@ -11,6 +11,12 @@
 				<p>User Interface design of each page got trickier and trickier. From a simple “click here” button to the complex captcha-style button clicking. The hardest page I went through was the email and password one. At first, it took me more than two minutes to find out how to get out of that page. I even scrolled through the terms and condition window and still couldn’t get out of it since it scrolls very slowly.</p>
 				<p>It was a fun activity and it let us open our minds to create a better user interface for our applications.</p>
 			</div>
+			<?php include('sidebar.php'); ?>
+		</div>
+	</div>
+	<div class="comments-container">
+		<div class="container">
+			<div class="fb-comments" data-href="<?php echo $_SERVER['REQUEST_URI']; ?>" data-width="" data-numposts="5"></div>
 		</div>
 	</div>
 </section>

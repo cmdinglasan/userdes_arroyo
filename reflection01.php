@@ -12,8 +12,14 @@
 
 				<p>We could find what could be added to the project, but will it be functional and could improve the users’ experience? </p>
 			</div>
+			<?php include('sidebar.php'); ?>
+		</div>
+	</div>
+	<div class="comments-container">
+		<div class="container">
+			<div class="fb-comments" data-href="<?php echo $_SERVER['REQUEST_URI']; ?>" data-width="" data-numposts="5"></div>
 		</div>
 	</div>
 </section>
 
-<?php include 'footer.php'; ?>
+<?php include "footer.php"; ?>
