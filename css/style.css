@@ -74,7 +74,7 @@ a:hover { text-decoration: none!important; }
 .section-three .bottom-pane {  }
 .section-three iframe.yt-player { box-shadow: 30px 30px rgba(0,0,0,0.3); }
 .section-three .cards { position: relative; }
-.section-three .cards .card { display: inline-block; width: 30%; vertical-align: top; box-shadow: 10px 10px rgba(0,0,0,0.3); border-radius: 10px; background: #fff; }
+.section-three .cards .card { display: inline-block; width: 30%; vertical-align: top; box-shadow: 10px 10px rgba(0,0,0,0.3); border-radius: 10px; background: #fff; border: 0!important; }
 .section-three .cards .card#first { margin: 0 10px 0 0; }
 .section-three .cards .card#second { margin: 0 10px 0 10px; }
 .section-three .cards .card#third { margin: 0 0 0 10px; }
@@ -121,7 +121,7 @@ a:hover { text-decoration: none!important; }
 /* Pages - Screen */
 .page-content { padding: 0; }
 .page-content .page-title { text-align: center; padding: 50px 0; color: #2196f3; margin: 0 0 10px 0; }
-.page-container { margin: 0 0 50px 0; }
+.page-container { margin: 30px 0 50px 0; }
 
 /* Pages - Articles List */
 .articles-list { position: relative; margin: 0 0 20px 0; }

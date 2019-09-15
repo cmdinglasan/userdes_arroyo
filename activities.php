@@ -55,6 +55,15 @@ Problems:
 					</li>
 					<li>
 						<section class="article-post">
+							<a href="article05.php" class="display-4 font-weight-bold">
+								<?php echo $art5; ?>
+							</a>
+							<p>Seedway is an app that helps you find eye clinics and center near your location. You can search eye clinics by city and province. It shows you direction to reach the clinics and help avoid traffic jams.</p>
+							<a href="article05.php" class="button article-link-btn">Read More</a>
+						</section>
+					</li>
+					<li>
+						<section class="article-post">
 							<a href="article07.php" class="display-4 font-weight-bold">
 								<?php echo $art7; ?>
 							</a>
