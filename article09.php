@@ -1,7 +1,7 @@
-<?php include 'info.php'; $title = $art8; include 'navbar.php';?>
+<?php include 'info.php'; $title = $art9; include 'navbar.php';?>
 
 <section class="page-content">
-	<?php $artdate = "23 AUG, 2019"; $arttitle = $art8; include 'article-title.php';?>
+	<?php $artdate = "23 AUG, 2019"; $arttitle = $art9; include 'article-title.php';?>
 	<div class="page-container">
 		<div class="container">
 			<div class="article">
