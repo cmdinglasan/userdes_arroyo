@@ -11,73 +11,73 @@
 				<p>Here are the sample of grid templates.</p>
 				<h2>12x6 Grid Templates</h2>
 				<div class="thumbnail">
-					<img src="sprites/12_A9a.png" style="width: 100%;">
+					<img src="sprites/12_A9a.PNG" style="width: 100%;">
 					<div class="caption">
 						<p></p>
 					</div>
 				</div>
 				<div class="thumbnail">
-					<img src="sprites/12_A9b.png" style="width: 100%;">
+					<img src="sprites/12_A9b.PNG" style="width: 100%;">
 					<div class="caption">
 						<p></p>
 					</div>
 				</div>
 				<div class="thumbnail">
-					<img src="sprites/12_A9c.png" style="width: 100%;">
+					<img src="sprites/12_A9c.PNG" style="width: 100%;">
 					<div class="caption">
 						<p></p>
 					</div>
 				</div>
 				<div class="thumbnail">
-					<img src="sprites/12_A9d.png" style="width: 100%;">
+					<img src="sprites/12_A9d.PNG" style="width: 100%;">
 					<div class="caption">
 						<p></p>
 					</div>
 				</div>
 				<div class="thumbnail">
-					<img src="sprites/12_A9e.png" style="width: 100%;">
+					<img src="sprites/12_A9e.PNG" style="width: 100%;">
 					<div class="caption">
 						<p></p>
 					</div>
 				</div>
 				<div class="thumbnail">
-					<img src="sprites/12_A9f.png" style="width: 100%;">
+					<img src="sprites/12_A9f.PNG" style="width: 100%;">
 					<div class="caption">
 						<p></p>
 					</div>
 				</div>
 				<div class="thumbnail">
-					<img src="sprites/12_A9g.png" style="width: 100%;">
+					<img src="sprites/12_A9g.PNG" style="width: 100%;">
 					<div class="caption">
 						<p></p>
 					</div>
 				</div>
 				<div class="thumbnail">
-					<img src="sprites/12_A9h.png" style="width: 100%;">
+					<img src="sprites/12_A9h.PNG" style="width: 100%;">
 					<div class="caption">
 						<p></p>
 					</div>
 				</div>
 				<div class="thumbnail">
-					<img src="sprites/12_A9i.png" style="width: 100%;">
+					<img src="sprites/12_A9i.PNG" style="width: 100%;">
 					<div class="caption">
 						<p></p>
 					</div>
 				</div>
 				<div class="thumbnail">
-					<img src="sprites/12_A9j.png" style="width: 100%;">
+					<img src="sprites/12_A9j.PNG" style="width: 100%;">
 					<div class="caption">
 						<p></p>
 					</div>
 				</div>
 				<div class="thumbnail">
-					<img src="sprites/12_A9k.png" style="width: 100%;">
+					<img src="sprites/12_A9k.PNG" style="width: 100%;">
 					<div class="caption">
 						<p></p>
 					</div>
 				</div>
 				<div class="thumbnail">
-					<img src="sprites/12_A9l.png" style="width: 100%;">
+					<img src="sprites/12_A9l.PNG" style="width: 100%;">
 					<div class="caption">
 						<p></p>
 					</div>
