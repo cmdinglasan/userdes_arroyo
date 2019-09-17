@@ -5,12 +5,6 @@
 	<div class="page-container">
 		<div class="container">
 			<div class="article">
-<<<<<<< HEAD
-				<div class="thumbnail">
-					<img src="">
-					<div class="caption">
-						<p></p>
-=======
 				<h2>Seedway Login Screen</h2>
 				<p>Seedway is an app that helps you find eye clinics and center near your location. You can search eye clinics by city and province. It shows you direction to reach the clinics and help avoid traffic jams.</p>
 				<h3>Registration Screen</h3>
@@ -39,7 +33,6 @@
 					<img src="sprites/Screenshot (18).png" style="width: 100%; ">
 					<div class="caption">
 						<p>Sample Prototype for the login screen shown on a browser</p>
->>>>>>> 9b3bd6c872426e114130d7e3711d118016c04050
 					</div>
 				</div>
 			</div>
