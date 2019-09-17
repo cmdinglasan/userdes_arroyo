@@ -12,6 +12,13 @@
 				<p>Based on the given information, 1000-floor elevator would go up 999 floors and down 999 floors. Having 999 physical buttons as an input from the user would be difficult for the user and for the construction of the elevator, a keypad would be suitable for this. While waiting for the elevator cart to arrive, the user will have access to a 10-key keypad with an enter button. The use of the keypad is for the computer to calculate which user is nearest to the floor he/she will go to and/or based on who went inside first. The computer will be controlling where the elevator cart would go.</p>
 
 				<p>Other buildings such as office-type or skyscrapers have floors which are for authorized persons only. To access these floors, after entering the floor number, the user will type the Personal Identification Number (PIN) code for the floor. After entering the correct PIN code, the computer will grant the access and proceed. If the building offers authorization cards such as using NFC or RFID card, the user may tap the card onto the scanner.</p>
+
+				<div class="thumbnail">
+					<img src="sprites/elevator.png">
+					<div class="caption">
+						<p>Proposed Elevator controls</p>
+					</div>
+				</div>
 			</div>
 			<?php include('sidebar.php'); ?>
 		</div>

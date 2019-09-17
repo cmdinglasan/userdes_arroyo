@@ -9,17 +9,77 @@
 				<p>With a 12-column grid design, you may create more ideas on how you could place different elements on your websites. </p>
 				<p>Designing for websites is not as easy as it looks. Surely, at least one time, you have seen websites that are grid-like in structure. Those websites have created such designs for the users to navigation much efficiently and better.</p>
 				<p>Here are the sample of grid templates.</p>
-				<h2>12x4 Grid Template</h2>
+				<h2>12x6 Grid Templates</h2>
 				<div class="thumbnail">
-					<img src="sprites/12_A8a_Dinglasan.png" style="width: 100%;">
+					<img src="sprites/12_A9a_Dinglasan/Slide1.png" style="width: 100%;">
 					<div class="caption">
-						<p>A 12x4 Grid template made for designing more efficiently.</p>
+						<p></p>
 					</div>
 				</div>
 				<div class="thumbnail">
-					<img src="sprites/12_A8c_Dinglasan.png" style="width: 100%;">
+					<img src="sprites/12_A9a_Dinglasan/Slide2.png" style="width: 100%;">
 					<div class="caption">
-						<p>A 3x3 Grid template mostly filled with contents such as text and images.</p>
+						<p></p>
+					</div>
+				</div>
+				<div class="thumbnail">
+					<img src="sprites/12_A9a_Dinglasan/Slide3.png" style="width: 100%;">
+					<div class="caption">
+						<p></p>
+					</div>
+				</div>
+				<div class="thumbnail">
+					<img src="sprites/12_A9a_Dinglasan/Slide4.png" style="width: 100%;">
+					<div class="caption">
+						<p></p>
+					</div>
+				</div>
+				<div class="thumbnail">
+					<img src="sprites/12_A9a_Dinglasan/Slide5.png" style="width: 100%;">
+					<div class="caption">
+						<p></p>
+					</div>
+				</div>
+				<div class="thumbnail">
+					<img src="sprites/12_A9a_Dinglasan/Slide6.png" style="width: 100%;">
+					<div class="caption">
+						<p></p>
+					</div>
+				</div>
+				<div class="thumbnail">
+					<img src="sprites/12_A9a_Dinglasan/Slide7.png" style="width: 100%;">
+					<div class="caption">
+						<p></p>
+					</div>
+				</div>
+				<div class="thumbnail">
+					<img src="sprites/12_A9a_Dinglasan/Slide8.png" style="width: 100%;">
+					<div class="caption">
+						<p></p>
+					</div>
+				</div>
+				<div class="thumbnail">
+					<img src="sprites/12_A9a_Dinglasan/Slide9.png" style="width: 100%;">
+					<div class="caption">
+						<p></p>
+					</div>
+				</div>
+				<div class="thumbnail">
+					<img src="sprites/12_A9a_Dinglasan/Slide10.png" style="width: 100%;">
+					<div class="caption">
+						<p></p>
+					</div>
+				</div>
+				<div class="thumbnail">
+					<img src="sprites/12_A9a_Dinglasan/Slide11.png" style="width: 100%;">
+					<div class="caption">
+						<p></p>
+					</div>
+				</div>
+				<div class="thumbnail">
+					<img src="sprites/12_A9a_Dinglasan/Slide12.png" style="width: 100%;">
+					<div class="caption">
+						<p></p>
 					</div>
 				</div>
 			</div>
