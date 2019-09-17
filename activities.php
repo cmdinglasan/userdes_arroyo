@@ -55,11 +55,38 @@ Problems:
 					</li>
 					<li>
 						<section class="article-post">
+							<a href="article05.php" class="display-4 font-weight-bold">
+								<?php echo $art5; ?>
+							</a>
+							<p>Seedway is an app that helps you find eye clinics and center near your location. You can search eye clinics by city and province. It shows you direction to reach the clinics and help avoid traffic jams.</p>
+							<a href="article05.php" class="button article-link-btn">Read More</a>
+						</section>
+					</li>
+					<li>
+						<section class="article-post">
 							<a href="article07.php" class="display-4 font-weight-bold">
 								<?php echo $art7; ?>
 							</a>
 							<p>How can we improve this? Organization of data Group related ideas Whitespace</p>
 							<a href="article07.php" class="button article-link-btn">Read More</a>
+						</section>
+					</li>
+					<li>
+						<section class="article-post">
+							<a href="article08.php" class="display-4 font-weight-bold">
+								<?php echo $art8; ?>
+							</a>
+							<p>Designing for websites is not as easy as it looks. Surely, at least one time, you have seen websites that are grid-like in structure.</p>
+							<a href="article08.php" class="button article-link-btn">Read More</a>
+						</section>
+					</li>
+					<li>
+						<section class="article-post">
+							<a href="article09.php" class="display-4 font-weight-bold">
+								<?php echo $art9; ?>
+							</a>
+							<p>With a 12-column grid design, you may create more ideas on how you could place different elements on your websites. </p>
+							<a href="article09.php" class="button article-link-btn">Read More</a>
 						</section>
 					</li>
 				</ol>
