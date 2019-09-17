@@ -13,6 +13,12 @@
 
 				<p>Another application I usually use is PayMaya. PayMaya is a virtual wallet service that allows you to pay bills and transfer cash wirelessly. I use this to pay bills and buy load at a discounted price.</p>
 			</div>
+			<?php include('sidebar.php'); ?>
+		</div>
+	</div>
+	<div class="comments-container">
+		<div class="container">
+			<div class="fb-comments" data-href="<?php echo $_SERVER['REQUEST_URI']; ?>" data-width="" data-numposts="5"></div>
 		</div>
 	</div>
 </section>

@@ -1,4 +1,4 @@
-<?php $title = "Activity | Tell Me About Your Self"; include 'navbar.php';?>
+<?php include 'info.php'; $title = $art1; include 'navbar.php';?>
 
 <section class="page-content">
 	<?php $artdate = "25 JUN, 2019"; $arttitle = $art1; include 'article-title.php';?>
@@ -13,6 +13,12 @@
 
 				<p>Based on the course's name, I expect that we will learn about designing graphical user interfaces for mobile applications and websites. </p>
 			</div>
+			<?php include('sidebar.php'); ?>
+		</div>
+	</div>
+	<div class="comments-container">
+		<div class="container">
+			<div class="fb-comments" data-href="<?php echo $_SERVER['REQUEST_URI']; ?>" data-width="" data-numposts="5"></div>
 		</div>
 	</div>
 </section>

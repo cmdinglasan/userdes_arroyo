@@ -7,6 +7,7 @@
 
 	<!-- Stylesheets -->
 	<link rel="stylesheet" href="css/style.css"/>
+	<link rel="stylesheet" href="css/linkedin.css"/>
 	<link rel="shortcut icon" type="image/png" href="sprites/favicon.ico"/>
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700&display=swap" rel="stylesheet"> 
@@ -20,6 +21,7 @@
 	<script type="text/javascript">
 	$(function() {
 	    var header = $(".fixed-title");
+	    var navbar = $(".navbar");
 	    $(window).scroll(function() {    
 	        var scroll = $(window).scrollTop();
 	    
@@ -28,7 +30,28 @@
 	        } else {
 	            header.removeClass("active");
 	        }
+	        if (scroll >= 70) {
+	            navbar.addClass("scroll");
+	        } else {
+	            navbar.removeClass("scroll");
+	        }
 	    });
+		$('.hamburger').click(function(){
+		  $('.links').toggleClass('mobile');
+		  $('.navbar').toggleClass('active');
+		});
+		$('.btn.portrait').click(function(){
+		  $('.btn.portrait').addClass('active');
+		  $('.btn.landscape').removeClass('active');
+		  $('.page-container .posts').removeClass('landscape');
+		  $('.page-container .posts').addClass('portrait');
+		});
+		$('.btn.landscape').click(function(){
+		  $('.btn.portrait').removeClass('active');
+		  $('.btn.landscape').addClass('active');
+		  $('.page-container .posts').addClass('landscape');
+		  $('.page-container .posts').removeClass('portrait');
+		});
 	});
 	</script>
 </head>
@@ -39,34 +62,45 @@
 <title><?php echo $title;?></title>
 <body>
 
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=235627133273363&autoLogAppEvents=1"></script>
+
 <div class="main-navigation">
-	<nav class="navbar active">
+	<nav class="navbar">
 		<div class="container">
 			<div class="logo">
 				<a href="index.php">
 					<img src="sprites/cd_logo_2.png">
 				</a>
 			</div>
+			<div class="hamburger">
+				<i class="fas fa-bars"></i>
+			</div>
 			<div class="links">
 				<ul>
 					<li>
 						<a href="index.php">
-							Home
+							<span>Home</span>
 						</a>
 					</li>
 					<li>
 						<a href="activities.php">
-							Activities
+							<span>Activities</span>
 						</a>
 					</li>
 					<li>
 						<a href="reflection.php">
-							Reflection
+							<span>Reflection</span>
 						</a>
 					</li>
 					<li>
 						<a href="projects.php">
-							Projects
+							<span>Projects</span>
+						</a>
+					</li>
+					<li>
+						<a href="learnings.php">
+							<span>Learnings</span>
 						</a>
 					</li>
 				</ul>
