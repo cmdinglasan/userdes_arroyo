@@ -80,6 +80,7 @@ Problems:
 							<a href="article08.php" class="button article-link-btn">Read More</a>
 						</section>
 					</li>
+<<<<<<< HEAD
 					<li>
 						<section class="article-post">
 							<a href="article09.php" class="display-4 font-weight-bold">
@@ -89,6 +90,8 @@ Problems:
 							<a href="article09.php" class="button article-link-btn">Read More</a>
 						</section>
 					</li>
+=======
+>>>>>>> 9b3bd6c872426e114130d7e3711d118016c04050
 				</ol>
 			</div>
 		</div>
