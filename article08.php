@@ -21,7 +21,7 @@
 						<p>A 3x3 Grid template mostly filled with contents such as text and images.</p>
 					</div>
 				</div>
-				<p></p>
+				<p>A three by three layout grid could be used in different instances. Your project may not be visually appealing if your contents lack structure or foundation same as a house.</p>
 				<h2>4x4 Grid Template</h2>
 				<div class="thumbnail">
 					<img src="sprites/12_A8b_Dinglasan.png" style="width: 100%;">
@@ -35,6 +35,8 @@
 						<p>A 4x4 Grid template mostly filled with contents such as text and images.</p>
 					</div>
 				</div>
+				<p>A four by four layout grid could either increase your content spaces or be as same as the three by three one. "Without a layout grid, graphic elements will not properly work together."</p>
+				<small><a href="https://www.designersinsights.com/designer-resources/using-layout-grids-effectively/" target="_blank">Designer Insights, <i>Using Layout Grids Effectively</i></a></small><br><br>
 			</div>
 			<?php include('sidebar.php'); ?>
 		</div>
