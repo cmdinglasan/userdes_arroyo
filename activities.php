@@ -55,20 +55,20 @@ Problems:
 					</li>
 					<li>
 						<section class="article-post">
-							<a href="article06.php" class="display-4 font-weight-bold">
-								<?php echo $art6; ?>
-							</a>
-							<p>What is a persona? According to SmashingMagazine.com, persona is "a way to model, summarize and communicate research about people who have been observed or researched in some way."</p>
-							<a href="article06.php" class="button article-link-btn">Read More</a>
-						</section>
-					</li>
-					<li>
-						<section class="article-post">
 							<a href="article05.php" class="display-4 font-weight-bold">
 								<?php echo $art5; ?>
 							</a>
 							<p>Seedway is an app that helps you find eye clinics and center near your location. You can search eye clinics by city and province. It shows you direction to reach the clinics and help avoid traffic jams.</p>
 							<a href="article05.php" class="button article-link-btn">Read More</a>
+						</section>
+					</li>
+					<li>
+						<section class="article-post">
+							<a href="article06.php" class="display-4 font-weight-bold">
+								<?php echo $art6; ?>
+							</a>
+							<p>What is a persona? According to SmashingMagazine.com, persona is "a way to model, summarize and communicate research about people who have been observed or researched in some way."</p>
+							<a href="article06.php" class="button article-link-btn">Read More</a>
 						</section>
 					</li>
 					<li>

@@ -21,6 +21,7 @@
 						<p>A 3x3 Grid template mostly filled with contents such as text and images.</p>
 					</div>
 				</div>
+				<p></p>
 				<h2>4x4 Grid Template</h2>
 				<div class="thumbnail">
 					<img src="sprites/12_A8b_Dinglasan.png" style="width: 100%;">
