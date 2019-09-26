@@ -183,6 +183,7 @@ a:hover { text-decoration: none!important; }
 
 /* Facebook Comments */
 .comments-container { position: relative; padding: 100px 0; background: #D9D9D6; }
+.comments-container .fb-comments iframe { width: 100% !important; }
 
 /* Linkedin */
 .LI-badge-container.horizontal.light .LI-profile-pic-container { display: block; width: 100%; }
