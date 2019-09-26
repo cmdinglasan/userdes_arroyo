@@ -38,7 +38,7 @@
 	</div>
 	<div class="comments-container">
 		<div class="container">
-			<div class="fb-comments" data-href="<?php echo $_SERVER['REQUEST_URI']; ?>" data-width="" data-numposts="5"></div>
+			<div class="fb-comments" data-href="<?php echo $_SERVER['REQUEST_URI']; ?>" data-width="100%" data-numposts="5"></div>
 		</div>
 	</div>
 </section>
